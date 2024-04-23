@@ -2,6 +2,7 @@
 This project is an e-commerce website aimed at providing users with a convenient platform for buying and selling products online. The website facilitates browsing through a wide range of products, adding them to the cart, and securely completing transactions.
 
 Features
+
 User Authentication: Users can create accounts, log in, and manage their profiles.
 Product Listings: Display products with details such as images, descriptions, prices, and ratings.
 Search and Filter: Allow users to search for products by keywords and apply filters based on categories, brands, prices, etc.
